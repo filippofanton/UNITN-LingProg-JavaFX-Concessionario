@@ -1,6 +1,6 @@
 # Esercizio Concessionario
 ## LT Informatica
-###Università di Trento - Soluzione compito di Linguaggi di Programmazione, Modulo 1 – febbraio 2019
+### Università di Trento - Soluzione compito di Linguaggi di Programmazione, Modulo 1 – febbraio 2019
 
 Esempio di soluzione realizzata per l'esame di febbraio 2019.
 
@@ -68,6 +68,6 @@ ristampandone l'insieme.
 12) Il bottone "ordina per prezzo" agisce sulle auto riordinandole per prezzo e
 ristampandone l'insieme.
 
-## In questo progetto non trovate svolto il punto 1
+#### In questo progetto non trovate svolto il punto 1
 
-L'esercizio è stato scritto seguendo d'esempio lo [stesso esercizio svolto da un altro utente](https://github.com/Pater999/UNITN-lingProg-Concessionario/blob/master/README.md)
+#### L'esercizio è stato scritto seguendo d'esempio lo [stesso esercizio svolto da un altro utente](https://github.com/Pater999/UNITN-lingProg-Concessionario/blob/master/README.md)
